@@ -10,7 +10,7 @@ Responsive Prototype For FIP
 5. Submit a pull request :D
 
 ## Credits
-credits goes to Shauraya
+credits goes to Shaurya
 
 ## License
 MIT
